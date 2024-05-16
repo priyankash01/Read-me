@@ -17,14 +17,18 @@ To do so, I have used the following classification methods:
 7. DATASET : FROM THE KAGGLE WEBSITE Kaggle Link : https://www.kaggle.com/uciml/mushroom-classification
 
 8. Architecture :
-9.
-10.
+  
+   
 11. <img width="743" alt="ARCHI" src="https://github.com/priyankash01/Read-me/assets/142376337/3fd573c8-3994-494a-a7c6-ae24aca90515">
 
 Web Interface : 
 
 
 <img width="916" alt="Screenshot 2024-05-16 at 7 29 51 PM" src="https://github.com/priyankash01/Read-me/assets/142376337/d3cdfeed-f641-4306-8d07-8fbb8841568a">
+
+Summary/ result
+
+The model predict which mushroom is poisonous & which is edible. 
 
 
 
